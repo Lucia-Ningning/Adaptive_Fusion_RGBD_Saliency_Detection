@@ -1,5 +1,5 @@
 ## About
-This repository contains code for paper "Switch-based Multi-modal Fusion for RGB-D Salient Object Detection".
+This repository contains code for paper "Adaptive Fusion for RGB-D Salient Object Detection".
 
 ## Network architecture
 
