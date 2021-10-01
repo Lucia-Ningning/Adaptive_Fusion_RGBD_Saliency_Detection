@@ -3,7 +3,7 @@ This repository contains code for paper "Adaptive Fusion for RGB-D Salient Objec
 
 ## Network architecture
 
-<img width="600" height="360" src="https://p.pstatp.com/origin/pgc-image/2d567e32e22c4a63b247c08580e09a66"/>
+<img width="600" height="360" src="https://p.pstatp.com/origin/pgc-image/c17a2a6105a24f6a8f07da5b398ba336"/>
 
 ## Usage
 
